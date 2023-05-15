@@ -1,7 +1,7 @@
 <!-- My profile -->
 
 <h3 align="center">
-  <samp>HELLO, MY NAME IS <a href="https://landins.xyz">LANDIN</a>!</samp>
+  <samp>HELLO, MY NAME IS ISC.
 </h3>
 
 <p align="center">

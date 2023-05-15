@@ -5,5 +5,5 @@
 </h3>
 
 <p align="center">
-  <samp>EVERYDAY NORMAL GUY</samp>
+  <samp>I'M BEGGINER PROGRAMMER. ENJOY MY PROJECTS :)</samp>
 </p>

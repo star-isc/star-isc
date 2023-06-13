@@ -1,9 +1,11 @@
-<!-- My profile -->
+### 🌸 Hi there
 
-<h3 align="center">
-  <samp>HELLO, MY NAME IS ISC.
-</h3>
+I'm Isaac Fernandes - a Front-end Developer.
 
-<p align="center">
-  <samp>I'M BEGGINER PROGRAMMER. ENJOY MY PROJECTS :)</samp>
-</p>
+Well, I like to make websites and study programming. I'm currently studying other languages to improve my knowledge.
+
+- ⚙️ I use daily: `HTML5`, `CSS3`, `JavaScript`, `Godot`
+- 🌷 Learning about about **Web**
+- ☕ Enjoy my projects.
+
+![Birthday Stats](https://bday-manas140.vercel.app/{YYYY-MM-DD})

@@ -8,4 +8,4 @@ Well, I like to make websites and study programming. I'm currently studying othe
 - 🌷 Learning about about **Web**
 - ☕ Enjoy my projects.
 
-![Birthday Stats](https://bday-manas140.vercel.app/{YYYY-MM-DD})
+![Birthday Stats](https://bday-manas140.vercel.app/2007-04-01)

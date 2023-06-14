@@ -9,5 +9,3 @@ Well, I like to make websites and study programming. I'm currently studying othe
 - ☕ Enjoy my projects.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=star-isc&layout=compact)
-
-![Birthday Stats](https://bday-manas140.vercel.app/2010-04-09)

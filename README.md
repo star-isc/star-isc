@@ -8,7 +8,7 @@ Well, I like to make websites and study programming. I'm currently studying othe
 - 🌷 Learning about about **Web**
 - ☕ Enjoy my projects.
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=star-isc&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ### 🌸 Birthday 🌸
 

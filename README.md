@@ -4,7 +4,7 @@ I'm Isaac Fernandes - a Front-end Developer.
 
 Well, I like to make websites and study programming. I'm currently studying other languages to improve my knowledge.
 
-- ⚙️ Skills: `HTML5`, `CSS3`, `Minimal JavaScript`, `Python`, `Batch`, `Minimal Lua`
+- ⚙️ Skills: `HTML5`, `CSS3`, `JavaScript`, `Python`
 - 🌷 Learning about **IA Machine Learning**
 - ☕ Enjoy my projects.
 
